@@ -1,0 +1,115 @@
+{
+  "rice": {
+    "calories": 130,
+    "protein": "2.7g",
+    "carbs": "28g",
+    "fat": "0.3g",
+    "fiber": "0.4g",
+    "key_vitamins": [
+      "B1 (Thiamine)",
+      "B6"
+    ],
+    "health_benefits": "Provides fast energy, good for digestion.",
+    "top_nutrient_dv_percent": 50
+  },
+  "wheat": {
+    "calories": 339,
+    "protein": "13.7g",
+    "carbs": "72.5g",
+    "fat": "1.8g",
+    "fiber": "12.2g",
+    "key_vitamins": [
+      "B3 (Niacin)",
+      "Iron",
+      "Zinc"
+    ],
+    "health_benefits": "High in fiber, supports heart health and digestion.",
+    "top_nutrient_dv_percent": 61
+  },
+  "tomato": {
+    "calories": 18,
+    "protein": "0.9g",
+    "carbs": "3.9g",
+    "fat": "0.2g",
+    "fiber": "1.2g",
+    "key_vitamins": [
+      "Vitamin C",
+      "Potassium",
+      "Vitamin K",
+      "Folate"
+    ],
+    "health_benefits": "Rich in lycopene, an antioxidant linked to many health benefits, including reduced risk of heart disease.",
+    "top_nutrient_dv_percent": 36
+  },
+  "spinach": {
+    "calories": 23,
+    "protein": "2.9g",
+    "carbs": "3.6g",
+    "fat": "0.4g",
+    "fiber": "2.2g",
+    "key_vitamins": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin K1",
+      "Iron",
+      "Calcium"
+    ],
+    "health_benefits": "Excellent source of iron and calcium, promotes eye health and reduces oxidative stress.",
+    "top_nutrient_dv_percent": 21
+  },
+  "potato": {
+    "calories": 77,
+    "protein": "2g",
+    "carbs": "17.5g",
+    "fat": "0.1g",
+    "fiber": "2.2g",
+    "key_vitamins": [
+      "Vitamin C",
+      "Vitamin B6",
+      "Potassium"
+    ],
+    "health_benefits": "Good source of vitamins and minerals, filling and versatile.",
+    "top_nutrient_dv_percent": 30
+  },
+  "onion": {
+    "calories": 40,
+    "protein": "1.1g",
+    "carbs": "9.3g",
+    "fat": "0.1g",
+    "fiber": "1.7g",
+    "key_vitamins": [
+      "Vitamin C",
+      "Vitamin B6",
+      "Potassium",
+      "Folate"
+    ],
+    "health_benefits": "Contains antioxidants and compounds that fight inflammation.",
+    "top_nutrient_dv_percent": 57
+  },
+  "maize": {
+    "calories": 86,
+    "protein": "3.2g",
+    "carbs": "18.7g",
+    "fat": "1.2g",
+    "fiber": "2g",
+    "key_vitamins": [
+      "Vitamin B5",
+      "Folate",
+      "Vitamin B6",
+      "Niacin",
+      "Potassium"
+    ],
+    "health_benefits": "Rich in fiber and plant compounds that aid digestion and eye health.",
+    "top_nutrient_dv_percent": 26
+  },
+  "cotton": {
+    "calories": "N/A",
+    "protein": "N/A",
+    "carbs": "N/A",
+    "fat": "N/A",
+    "fiber": "N/A",
+    "key_vitamins": [],
+    "health_benefits": "Non-edible fiber crop.",
+    "top_nutrient_dv_percent": 41
+  }
+}

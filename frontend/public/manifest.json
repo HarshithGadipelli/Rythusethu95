@@ -1,0 +1,21 @@
+{
+  "short_name": "Rythu Sethu",
+  "name": "Rythu Sethu - Farmer & Customer AI Marketplace",
+  "description": "Bridging farmers and customers with an AI-powered marketplace.",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1a4a2e",
+  "background_color": "#f8fafc"
+}
